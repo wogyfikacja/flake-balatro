@@ -1,0 +1,21 @@
+# Rust build artifacts
+balatro-wiki/target/
+
+# Nix build results
+result
+result-*
+
+# Cache files
+.cache/
+*.log
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
